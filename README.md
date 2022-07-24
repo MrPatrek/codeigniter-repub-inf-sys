@@ -1,6 +1,8 @@
 # IS for reporting public nuisance
 
-The implementation of an information system for reporting public nuisance using CodeIgniter
+The implementation of an information system for reporting public nuisance using PHP (CodeIgniter). You can read the *definition of the problem*, *requirements*, *different diagrams* (e.g. ER diagram) and other related topics about it [**HERE**](https://github.com/MrPatrek/codeigniter-repub-inf-sys/blob/main/information-system-paper.pdf).
+
+You can try out the system on your own [**HERE**](https://www.studenti.famnit.upr.si/~89191172/repub/).
 
 ##  Functionalities
 
