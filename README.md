@@ -64,7 +64,7 @@ Whatever you do, whenever you see some name (even yours in the navbar), you can 
 
 ## How to test it
 
-Username and password details for different roles (if you wish to test the system by yourself):
+Username and password details for different roles (if you wish to [**test the system**](https://www.studenti.famnit.upr.si/~89191172/repub/) by yourself):
 
 | Username | Password | Role(s) |
 | --- | --- | --- |
