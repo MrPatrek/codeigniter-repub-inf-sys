@@ -12,7 +12,7 @@ My website has three of them: Home, About and Forbidden pages. These are the pag
 
 When you sing up (register), you fill in your details like name, username, password, etc. When doing this, server would check whether your username and email are unique, and whether your password fields match. After the registration, you may log in. Keep in mind that the registration form given on the website can give you Citizen role only (there are Citizen, Authorities and Moderator roles in total).
 
-Keep in mind that all the passwords are safely protected. This is achieved with a password-hashing function bcrypt. 
+Keep in mind that all the passwords are safely protected. This is achieved with a password-hashing function **bcrypt**. 
 
 ###	(Citizen role) Create Report
 
@@ -54,13 +54,13 @@ Whatever you do, whenever you see some name (even yours in the navbar), you can 
 
 ### Other stuff
 
-- Not that important, but citizen has an option to see only those reports that he has created and authorities can see only those reports where he has participated in.
+- Not that important, but citizen has an option to see **only those reports that he has created** and authorities have an option to see only those reports where he has participated in.
 
-- Also, I have made flash messages. They are displayed when you do some manipulations with the database or when you are logged in or logged out OR when you do not fill some field, so all the fields should always be filled. Some of them are a bit custom so that the overall webpage would look nice.
+- Also, I have made ***flash messages***. They are displayed when you do some manipulations with the database or when you are logged in or logged out OR when you do not fill some field, so all the fields should always be filled. Some of them are a bit custom so that the overall webpage would look nice.
 
 - Although this is not a functionality, I think this deserves mentioning. I tried to make as much comfortable CSS design using Bootstrap (Bootswatch theme Quartz) as it can only be, and I think that this goal was achieved.
 
-### How to test it
+## How to test it
 
 Username and password details for different roles (if you wish to test the system by yourself):
 
