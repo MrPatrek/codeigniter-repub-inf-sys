@@ -27,8 +27,8 @@
 			<label for="selectDecision" class="form-label">Decision</label>
 			<select class="form-select" id="selectDecision" name="decision">
 				<option disabled selected value></option>
-					<option value="false">NOT APPROVED</option>
-					<option value="true">APPROVED</option>
+					<option value="0">NOT APPROVED</option>			<!-- It's like a boolean FALSE (because of MySQL boolean data type) -->
+					<option value="1">APPROVED</option>				<!-- It's like a boolean True -->
 			</select>
 		</div>
 
